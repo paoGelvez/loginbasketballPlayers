@@ -1,0 +1,97 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   font-family: 'Roboto', sans-serif; ;
+}
+.loginpage{
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,0.6), rgba(0,0,0,0.445)), url(Jugadores\ Login.jpg);
+    background-size: cover;
+    height: 100vh;
+} 
+
+@media (max-width: 740px){
+    .loginpage{
+        background: #fff;
+    }
+}
+
+@media (max-width: 740px){
+    img .icono{
+        width: 165px;
+    }
+}
+
+.formulario{
+    background-color:  rgba(237, 226, 226, 0.839);
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 150px;
+    width: 450px;
+    position: absolute;
+}
+
+@media (max-width: 740px){
+    .formulario{
+        background: transparent;
+        margin: 0;
+        padding: 70px 40px 90px;
+    }
+}
+.logo1{
+    margin-left: 50px;
+}
+
+.formulario h1{
+    margin: 0 0 25px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.icono{
+    display: flex;
+    
+}
+.formulario input{
+    display: block;
+    color: #000;
+    width: 80%;
+    margin-left: 30px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+.formulario input{
+background-color: #fff;
+font-size: 15px;
+outline: none;
+margin-bottom: 20px;
+padding: 0 20px ;
+}
+
+.formulario input[type="text"] ::-webkit-input-placeholder,
+.formulario input[type="password"] ::-webkit-input-placeholder{
+    color: #000;
+    font-size: 16px;
+} 
+
+.formulario input[type="submit"]{
+    background-color:deeppink;
+    font-size: 16px;
+    margin-top: 40px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.formulario .check{
+    color: #949494;
+    margin: 0;
+    margin: top 12px;;
+    padding: 0;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+}

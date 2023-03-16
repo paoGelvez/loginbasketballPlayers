@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.5" height="21.304" viewBox="0 0 16.5 21.304">
+  <g id="Icon_ticket" data-name="Icon / ticket" transform="translate(0.75 0.75)">
+    <g id="ic-ecommerce-invoice" transform="translate(-4.5 -2.11)">
+      <g id="Vrstva_169" data-name="Vrstva 169">
+        <path id="Trazado_141" data-name="Trazado 141" d="M19.13,21.67l-3.39-2.6a.23.23,0,0,0-.29,0l-3.21,2.75a.23.23,0,0,1-.3,0L8.3,19.07a.21.21,0,0,0-.28,0L4.88,21.65a.24.24,0,0,1-.38-.18V4.11a2,2,0,0,1,2-2h11a2,2,0,0,1,2,2V21.49a.23.23,0,0,1-.37.18Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Línea_126" data-name="Línea 126" x2="8" transform="translate(7.09 6.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Línea_127" data-name="Línea 127" x2="5" transform="translate(7.09 10.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Línea_128" data-name="Línea 128" x2="9" transform="translate(7.09 14.22)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

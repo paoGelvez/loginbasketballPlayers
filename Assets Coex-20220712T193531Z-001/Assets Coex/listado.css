@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 20px;
+    background: black;
+    display: flex;
+  }
+nav ul li a {
+    color: white;
+    display: flex;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    justify-content: space-evenly;
+}
+ nav li a:hover {
+    color: white;
+    background-color: deeppink;
+  }
+  
